@@ -25,7 +25,7 @@
 **git merge** (integrar todas las ramas independientes ceadas en una sola - la main/principal)
 
 #### RAMAS
-**git branch** (muestra todas tus ramas)
+**git branch** (muestra todas tus ramas)  
 **git branch [nombre de la rama]** (crea una nueva rama des del commit actual)
 
 #### CREAR UN NUEVO REPOSITORIO
