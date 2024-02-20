@@ -39,7 +39,7 @@ Seguir el orden:
 Seguir el orden:  
 **git remote -v** (ver los repositorios remotos asociados)  
 **git remote add origin [link]**  (añadir el repositorio online del link)  
-**git branch -M main**  (crear rama la rama main/principal)  
+**git branch -M main**  (crear la rama main/principal)  
 **git push -u origin main** (subir los ficheros al repositorio online)  
   
 
