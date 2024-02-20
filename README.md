@@ -28,7 +28,7 @@
 **git branch** (muestra todas tus ramas)
 **git branch [nombre de la rama]** (crea una nueva rama des del commit actual)
 
-#### CREAR  NUEVO REPOSITORIO
+#### CREAR UN NUEVO REPOSITORIO
 Seguir el orden:  
 **git init**  
 **git add README.md** (si queremos añadir un fichero readme)  
