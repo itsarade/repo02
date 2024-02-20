@@ -26,18 +26,19 @@
 
 #### RAMAS
 **git branch** (muestra todas tus ramas)  
-**git branch [nombre de la rama]** (crea una nueva rama des del commit actual)
+**git branch [nombre de la rama]** (crea una nueva rama des del commit actual)  
+**git checkout [nombre de la rama]** (moverse a otra rama)
 
 #### CREAR UN NUEVO REPOSITORIO
 Seguir el orden:  
 **git init**  
-**git add README.md** (si queremos añadir un fichero readme)  
+**git add README.md**   
 **git commit -m "first commit"**  
 
 #### ASOCIAR REPOSITORIO LOCAL CON REMOTO
 Seguir el orden:  
 **git remote -v** (ver los repositorios remotos asociados)  
-**git remote add origin [link]**  (añadir el repositorio online del link)
+**git remote add origin [link]**  (añadir el repositorio online del link)  
 **git branch -M main**  (crear rama la rama main/principal)  
 **git push -u origin main** (subir los ficheros al repositorio online)  
   
